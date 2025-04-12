@@ -3,6 +3,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## 👨‍🚀 Collaborators of Project Cozy-Pomodoro 🌌
+
+| 🚀 Codename        | 🌐 GitHub Link                                | 🧠 Neural Role              |
+|-------------------|-----------------------------------------------|-----------------------------|
+| `🧊 AFX-01`        | [Afin0x](https://github.com/Afin0x)           | Interface Architect (UI/UX) |
+| `🔥 ATHL-X9`       | [AthulUsername](https://github.com/AthulUsername) | Timecore Engineer (Logic/Deploy) |
+
+> 🚧 Operation: Cozy Focus Protocol  
+> 🗓️ Duration: Day 1 – Day 20  
+> 🎯 Mission: Build the ultimate calming productivity timer ⏳
+
+
+
+
+
+
+
+
+
+
 
 In the project directory, you can run:
 
