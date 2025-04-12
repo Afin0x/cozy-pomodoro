@@ -1,0 +1,74 @@
+/* App.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    transition: background 0.5s ease;
+  }
+  
+  /* Optional: Set default background if video fails */
+  body.night {
+    background-color: #0f1115;
+    color: white;
+  }
+  
+  body.morning {
+    background-color: #fef9f3;
+    color: #333;
+  }
+  
+  .background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    object-fit: cover;
+    z-index: 0;
+  }
+  
+  .app {
+    position: relative;
+    z-index: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .cozy-title {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    text-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+  }
+  
+
+  .video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+  }
+  
+  .background-video {
+
+    transition: opacity 1s ease;
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  .background-video.visible {
+    opacity: 1;
+    z-index: 0;
+  }
+  
+  .background-video.hidden {
+    opacity: 0;
+    z-index: 0;
+  }
+  
