@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 | 🚀 Codename        | 🌐 GitHub Link                                | 🧠 Neural Role              |
 |-------------------|-----------------------------------------------|-----------------------------|
 | `🧊 AFX-01`        | [Afin0x](https://github.com/Afin0x)           | Interface Architect (UI/UX) |
-| `🔥 ATHL-X9`       | [AthulUsername](https://github.com/AthulUsername) | Timecore Engineer (Logic/Deploy) |
+| `🔥 ATHL-X9`       | [athulXdev](https://github.com/athulXdev) | Timecore Engineer (Logic/Deploy) |
 
 > 🚧 Operation: Cozy Focus Protocol  
 > 🗓️ Duration: Day 1 – Day 20  
