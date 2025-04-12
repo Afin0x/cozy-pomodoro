@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 | `🔥 ATHL-X9`       | [athulXdev](https://github.com/athulXdev) | Timecore Engineer (Logic/Deploy) |
 
 > 🚧 Operation: Cozy Focus Protocol  
-> 🗓️ Duration: Day 1 – Day 20  
+> 🗓️ Duration: Day 2  
 > 🎯 Mission: Build the ultimate calming productivity timer ⏳
 
 
